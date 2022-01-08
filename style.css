@@ -1,0 +1,65 @@
+header{
+    text-align: center;
+}
+header p1{
+    text-align: center;
+   
+}
+div{
+    height:550px;
+    width:1100px;
+    background-color: rgb(255, 255, 255);
+}
+.price{
+  color: rgb(192, 76, 33);  
+}
+.botton{
+   width: 180px; 
+   height:50px ;
+   color: black;
+   background-color: orange;
+   text-align: center;
+   font-size: large;
+}
+.baby{
+    background-color: rgb(255, 254, 254);
+    height: 200px;
+    width: 350px;
+    float: right ;
+    margin-right: 420px;
+    margin-top: 155px;
+}
+body{
+    background-color: grey;
+    height: auto;
+    width: auto;
+}
+.image{
+    margin-left: 10px;
+}
+.image2{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
